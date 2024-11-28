@@ -61,6 +61,7 @@ class USvisaData:
         """
         This function returns a dictionary from USvisaData class input 
         """
+        
         logging.info("Entered get_usvisa_data_as_dict method as USvisaData class")
 
         try:
